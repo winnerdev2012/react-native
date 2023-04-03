@@ -1,0 +1,8 @@
+tree 58108a453211ee34d1ad8fab4bca877686742ff1
+parent de458c30eb93758ddd8b90f6b18d94cf5397ea4c
+author Beier Luo <bluebill1049@hotmail.com> 1645867462 +1100
+committer Beier Luo <bluebill1049@hotmail.com> 1645867462 +1100
+
+Revert "👀 include issue auto check and closer (#7923)"
+
+This reverts commit de458c30eb93758ddd8b90f6b18d94cf5397ea4c.
